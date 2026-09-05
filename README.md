@@ -1,4 +1,4 @@
-#👋 Hello! I'm Sejal 
+# 👋 Hello! I'm Sejal 
 
 I am a young research student working at the intersection of computer vision, representation learning, and self-supervised learning. 
 
